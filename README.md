@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Mohammed Almizan 👋
+**Data Analyst | SQL | Python | Tableau | Excel**
 
-<!--
-**Mohammed-Almizan/Mohammed-Almizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst with a strong foundation in scientific methodology and quantitative research. I specialize in extracting, cleaning, and analyzing complex datasets to uncover trends and drive evidence-based business decisions.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Arsenal
+- **Databases & Querying:** SQL (MySQL, PostgreSQL)
+- **Programming & Data Manipulation:** Python (Pandas, NumPy)
+- **Data Visualization & BI:** Tableau, Advanced Excel
+- **Core Competencies:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+*Stay tuned!*
+
+### 📫 Connect with me
+- **LinkedIn:** [Mohammed Almizan](www.linkedin.com/in/mohammed-almizan-067ba7432)
+- **Location:** Bengaluru, India
