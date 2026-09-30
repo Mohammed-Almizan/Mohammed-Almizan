@@ -13,5 +13,5 @@ I am a Data Analyst with a strong foundation in scientific methodology and quant
 *Stay tuned!*
 
 ### 📫 Connect with me
-- **LinkedIn:** [Mohammed Almizan](www.linkedin.com/in/mohammed-almizan-067ba7432)
+- **LinkedIn:** [Mohammed Almizan](https://www.linkedin.com/in/mohammed-almizan-067ba7432)
 - **Location:** Bengaluru, India
